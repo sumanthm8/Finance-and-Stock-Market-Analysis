@@ -4,4 +4,4 @@ ANNs work by simulating how our brains process information, with layers of "neur
 
 What makes ANNs really useful is their ability to identify complex patterns that traditional methods might overlook. This gives investors a better chance to navigate the ups and downs of the market and make more informed decisions.
 
-                ![image](https://github.com/user-attachments/assets/617ef9d6-46d9-454d-aac2-57011b2c7153)
+   ![image](https://github.com/user-attachments/assets/617ef9d6-46d9-454d-aac2-57011b2c7153)
